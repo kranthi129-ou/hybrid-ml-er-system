@@ -1,6 +1,6 @@
 # hybrid-ml-er-system
 
-A modular and scalable machine learning-based entity resolution pipeline using **PySpark**, **PostgreSQL**, and **LightGBM**. This system performs **blocking**, **feature extraction**, **supervised classification**, and **clustering** to resolve duplicate entities across large structured datasets.
+A modular and scalable machine learning-based entity resolution pipeline using **PostgreSQL**, and **LightGBM**. This system performs **blocking**, **feature extraction**, **supervised classification**, and **clustering** to resolve duplicate entities across large structured datasets.
 
 ---
 
@@ -35,7 +35,7 @@ A modular and scalable machine learning-based entity resolution pipeline using *
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/hybrid-ml-er-system.git
+git clone https://github.com/kranthi129-ou/hybrid-ml-er-system.git
 cd hybrid-ml-er-system
 ```
 
