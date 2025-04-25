@@ -1,1 +1,5 @@
+pandas -	#Reading, cleaning, and writing CSV/SQL data
+numpy -	#Handling missing values and numeric conversions
+sqlalchemy - #Creating engine for PostgreSQL connection
+psycopg2-binary -	#PostgreSQL DB connector used by SQLAlchemy
 
